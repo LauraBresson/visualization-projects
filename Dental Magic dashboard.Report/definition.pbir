@@ -1,9 +1,0 @@
-{
-  "version": "4.0",
-  "datasetReference": {
-    "byPath": {
-      "path": "../Dental Magic dashboard.SemanticModel"
-    },
-    "byConnection": null
-  }
-}
