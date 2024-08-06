@@ -1,0 +1,3 @@
+*.pbix linguist-language=DAX
+*.phip linguist-language=DAX
+*.ipynb linguist-language=Python
