@@ -1,0 +1,210 @@
+Employee Name,Department,Position,Manager Name,Performance Score,Teeth whitening/Day Wk 1,Teeth whitening/Day Wk 2,Daily Error Rate,90-day Complaints
+"Albert, Michael  ",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Bozzi, Charles",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Butler, Webster  L",Production       ,Production Manager,Elisa Bramante,Exceeds,0,0,0,0
+"Dunn, Amy  ",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Gray, Elijiah  ",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Hogland, Jonathan ",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Immediato, Walter",Production       ,Production Manager,Elisa Bramante,Needs Improvement,0,0,0,0
+"Liebig, Ketsia",Production       ,Production Manager,Elisa Bramante,Exceeds,0,0,0,0
+"Miller, Brannon",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Peterson, Ebonee  ",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Spirea, Kelley",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Stanley, David ",Production       ,Production Manager,Elisa Bramante,Needs Improvement,0,0,0,0
+"Sullivan, Kissy ",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Wallace, Courtney  E",Production       ,Production Manager,Elisa Bramante,Fully Meets,0,0,0,0
+"Adinolfi, Wilson  K",Production       ,Production Technician I,Michael Albert,Exceeds,15,17,0,0
+"Alagbe,Trina",Production       ,Production Technician I,Elijiah Gray,Fully Meets,8,10,1,0
+"Anderson, Carol ",Production       ,Production Technician I,Webster Butler,N/A- too early to review,6,8,3,1
+"Anderson, Linda  ",Production       ,Production Technician I,Amy Dunn,Exceptional,19,19,0,0
+"Athwal, Sam",Production       ,Production Technician I,Ketsia Liebig,N/A- too early to review,6,6,1,0
+"Bachiochi, Linda",Production       ,Production Technician I,Brannon Miller,Fully Meets,10,10,0,0
+"Baczenski, Rachael  ",Production       ,Production Technician I,David Stanley,N/A- too early to review,5,7,3,2
+"Barbara, Thomas",Production       ,Production Technician I,Kissy Sullivan,90-day meets,5,8,0,0
+"Barone, Francesco  A",Production       ,Production Technician I,Kelley Spirea,Fully Meets,10,10,0,0
+"Barton, Nader",Production       ,Production Technician I,Michael Albert,Fully Meets,12,12,0,0
+"Beatrice, Courtney ",Production       ,Production Technician I,Elijiah Gray,Fully Meets,9,10,1,0
+"Becker, Scott",Production       ,Production Technician I,Webster Butler,Fully Meets,8,9,0,0
+"Bernstein, Sean",Production       ,Production Technician I,Amy Dunn,Fully Meets,10,12,1,0
+"Biden, Lowan  M",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,12,13,1,0
+"Billis, Helen",Production       ,Production Technician I,Brannon Miller,Exceeds,16,15,0,0
+"Brill, Donna",Production       ,Production Technician I,David Stanley,Fully Meets,9,10,1,1
+"Bugali, Josephine ",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,13,15,1,0
+"Carey, Michael  ",Production       ,Production Technician I,Kelley Spirea,Fully Meets,11,12,1,0
+"Chace, Beatrice ",Production       ,Production Technician I,Michael Albert,Fully Meets,13,14,0,0
+"Chan, Lin",Production       ,Production Technician I,Elijiah Gray,Fully Meets,13,13,0,0
+"Chang, Donovan  E",Production       ,Production Technician I,Webster Butler,Fully Meets,8,10,1,0
+"Chivukula, Enola",Production       ,Production Technician I,Amy Dunn,90-day meets,6,7,3,0
+"Cierpiszewski, Caroline  ",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,12,14,1,0
+"Clukey, Elijian",Production       ,Production Technician I,Brannon Miller,Exceeds,16,16,0,0
+"Cockel, James",Production       ,Production Technician I,David Stanley,Fully Meets,11,12,1,0
+"Cole, Spencer",Production       ,Production Technician I,Kissy Sullivan,Needs Improvement,4,5,3,1
+"Cornett, Lisa ",Production       ,Production Technician I,Kelley Spirea,90-day meets,6,7,1,0
+"Crimmings,   Jean",Production       ,Production Technician I,Michael Albert,N/A- too early to review,9,10,2,2
+"Darson, Jene'ya ",Production       ,Production Technician I,Elijiah Gray,Fully Meets,11,12,1,0
+"DeGweck,  James",Production       ,Production Technician I,Webster Butler,Fully Meets,13,15,1,0
+"Desimone, Carl ",Production       ,Production Technician I,Amy Dunn,PIP,3,3,3,3
+"Dickinson, Geoff ",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,13,12,0,0
+"DiNocco, Lily ",Production       ,Production Technician I,Brannon Miller,Needs Improvement,5,2,4,2
+"Dobrin, Denisa  S",Production       ,Production Technician I,David Stanley,Fully Meets,13,14,1,1
+"Eaton, Marianne",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,11,12,1,0
+"Engdahl, Jean",Production       ,Production Technician I,Kelley Spirea,Fully Meets,10,12,1,0
+"England, Rex",Production       ,Production Technician I,Kelley Spirea,90-day meets,6,7,0,0
+"Estremera, Miguel",Production       ,Production Technician I,Michael Albert,Needs Improvement,4,5,3,2
+"Evensen, April",Production       ,Production Technician I,Elijiah Gray,N/A- too early to review,5,4,2,0
+"Ferguson, Susan",Production       ,Production Technician I,Webster Butler,Fully Meets,11,10,1,0
+"Fernandes, Nilson  ",Production       ,Production Technician I,Amy Dunn,N/A- too early to review,4,6,1,0
+"Ferreira, Violeta",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,10,10,1,0
+"Fidelia,  Libby",Production       ,Production Technician I,Brannon Miller,Fully Meets,12,13,0,0
+"Garcia, Raul",Production       ,Production Technician I,David Stanley,N/A- too early to review,7,6,1,0
+"Garneau, Hamish",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,9,8,0,0
+"Gaul, Barbara",Production       ,Production Technician I,Kelley Spirea,Fully Meets,12,13,0,0
+"Gentry, Mildred",Production       ,Production Technician I,Michael Albert,N/A- too early to review,5,8,2,0
+"Gerke, Melisa",Production       ,Production Technician I,Elijiah Gray,N/A- too early to review,5,7,1,0
+"Gilles, Alex",Production       ,Production Technician I,Webster Butler,Needs Improvement,5,6,4,2
+"Girifalco, Evelyn",Production       ,Production Technician I,Amy Dunn,Exceeds,16,18,0,0
+"Gold, Shenice  ",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,13,12,1,0
+"Gonzalez, Cayo",Production       ,Production Technician I,Brannon Miller,Exceeds,16,16,0,0
+"Gordon, David",Production       ,Production Technician I,David Stanley,Fully Meets,14,15,0,0
+"Goyal, Roxana",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,11,10,0,0
+"Gross, Paula",Production       ,Production Technician I,Kelley Spirea,Fully Meets,9,10,0,0
+"Handschiegl, Joanne",Production       ,Production Technician I,Michael Albert,Fully Meets,11,12,1,0
+"Harrell, Ludwick",Production       ,Production Technician I,Elijiah Gray,Fully Meets,10,11,0,0
+"Harrington, Christie ",Production       ,Production Technician I,Webster Butler,Fully Meets,14,13,0,0
+"Harrison, Kara",Production       ,Production Technician I,Amy Dunn,Exceeds,16,17,0,0
+"Heitzman, Anthony",Production       ,Production Technician I,Ketsia Liebig,90-day meets,6,10,2,0
+"Ivey, Rose ",Production       ,Production Technician I,Brannon Miller,Fully Meets,12,15,2,0
+"Jackson, Maryellen",Production       ,Production Technician I,David Stanley,Fully Meets,8,10,2,1
+"Jacobi, Hannah  ",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,11,12,1,0
+"Jhaveri, Sneha  ",Production       ,Production Technician I,Kelley Spirea,Fully Meets,12,14,0,0
+"Johnson, George",Production       ,Production Technician I,Michael Albert,Exceeds,17,19,0,0
+"Jung, Judy  ",Production       ,Production Technician I,Elijiah Gray,90-day meets,7,9,3,0
+"Keatts, Kramer ",Production       ,Production Technician I,Michael Albert,Fully Meets,15,14,1,1
+"King, Janet",Production       ,Production Technician I,Elijiah Gray,Fully Meets,9,10,1,1
+"Kinsella, Kathleen  ",Production       ,Production Technician I,Webster Butler,90-day meets,5,7,3,0
+"Kirill, Alexandra  ",Production       ,Production Technician I,Amy Dunn,Fully Meets,12,14,2,0
+"Knapp, Bradley  J",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,11,12,0,0
+"Kretschmer, John",Production       ,Production Technician I,Brannon Miller,Fully Meets,14,13,0,0
+"Langton, Enrico",Production       ,Production Technician I,David Stanley,Fully Meets,13,14,0,0
+"Leach, Dallas",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,12,12,1,0
+"LeBel, Jonathan  R",Production       ,Production Technician I,Kelley Spirea,90-day meets,6,7,0,0
+"Linares, Marilyn ",Production       ,Production Technician I,Michael Albert,N/A- too early to review,4,7,2,0
+"Lydon, Allison",Production       ,Production Technician I,Elijiah Gray,90-day meets,6,10,1,0
+"Lynch, Lindsay",Production       ,Production Technician I,Webster Butler,Exceeds,16,16,0,0
+"MacLennan, Samuel",Production       ,Production Technician I,Amy Dunn,N/A- too early to review,5,6,1,0
+"Mahoney, Lauren  ",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,9,10,1,0
+"Mangal, Debbie",Production       ,Production Technician I,Brannon Miller,Fully Meets,9,10,1,0
+"Maurice, Shana",Production       ,Production Technician I,David Stanley,90-day meets,8,8,4,0
+"Mckenna, Sandy",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,12,10,0,0
+"Meads, Elizabeth",Production       ,Production Technician I,Kelley Spirea,Fully Meets,9,11,1,0
+"Medeiros, Jennifer",Production       ,Production Technician I,Michael Albert,N/A- too early to review,6,6,1,1
+"Motlagh,  Dawn",Production       ,Production Technician I,Elijiah Gray,Fully Meets,9,10,1,1
+"Ndzi, Colombui",Production       ,Production Technician I,Webster Butler,Fully Meets,12,11,0,0
+"Ndzi, Horia",Production       ,Production Technician I,Amy Dunn,Fully Meets,9,12,1,0
+"Newman, Richard ",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,11,10,1,0
+"Ngodup, Shari ",Production       ,Production Technician I,Brannon Miller,Exceeds,15,16,0,0
+"Nguyen, Lei-Ming",Production       ,Production Technician I,David Stanley,Fully Meets,9,10,0,0
+"O'hare, Lynn",Production       ,Production Technician I,Kissy Sullivan,PIP,4,2,3,3
+"Osturnka, Adeel",Production       ,Production Technician I,Kelley Spirea,Exceeds,16,16,0,0
+"Owad, Clinton",Production       ,Production Technician I,Michael Albert,Needs Improvement,6,4,2,1
+"Panjwani, Nina",Production       ,Production Technician I,Elijiah Gray,Fully Meets,11,10,0,0
+"Pelech, Emil",Production       ,Production Technician I,Webster Butler,Needs Improvement,5,4,2,1
+"Perry, Shakira",Production       ,Production Technician I,Amy Dunn,Fully Meets,14,14,0,0
+"Peterson, Kayla ",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,10,9,0,0
+"Pham, Hong",Production       ,Production Technician I,Brannon Miller,Fully Meets,10,12,0,0
+"Pitt, Brad ",Production       ,Production Technician I,David Stanley,Fully Meets,5,7,3,1
+"Power, Morissa",Production       ,Production Technician I,Kissy Sullivan,N/A- too early to review,12,12,2,0
+"Punjabhi, Louis  ",Production       ,Production Technician I,Kelley Spirea,Fully Meets,8,9,1,0
+"Purinton, Janine",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,9,10,0,0
+"Rarrick, Quinn",Production       ,Production Technician I,Michael Albert,Fully Meets,11,12,0,0
+"Rhoads, Thomas",Production       ,Production Technician I,Elijiah Gray,Fully Meets,17,18,0,0
+"Rivera, Haley  ",Production       ,Production Technician I,Webster Butler,Exceeds,13,13,0,0
+"Robinson, Alain  ",Production       ,Production Technician I,Amy Dunn,Fully Meets,6,3,3,2
+"Robinson, Cherly",Production       ,Production Technician I,Ketsia Liebig,Needs Improvement,17,19,0,0
+"Robinson, Elias",Production       ,Production Technician I,Brannon Miller,Exceptional,10,13,1,0
+"Rose, Ashley  ",Production       ,Production Technician I,David Stanley,Fully Meets,9,10,1,0
+"Rossetti, Bruno",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,5,6,2,0
+"Saar-Beckles, Melinda",Production       ,Production Technician I,Kelley Spirea,N/A- too early to review,14,13,1,0
+"Sadki, Nore  ",Production       ,Production Technician I,Michael Albert,Fully Meets,12,14,0,0
+"Sander, Kamrin",Production       ,Production Technician I,Elijiah Gray,Fully Meets,9,12,0,2
+"Sewkumar, Nori",Production       ,Production Technician I,Webster Butler,Fully Meets,12,12,0,0
+"Shields, Seffi",Production       ,Production Technician I,Amy Dunn,Fully Meets,9,10,1,1
+"Smith, Sade",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,3,4,2,2
+"Sparks, Taylor  ",Production       ,Production Technician I,Brannon Miller,PIP,16,15,0,0
+"Squatrito, Kristen",Production       ,Production Technician I,David Stanley,Exceeds,9,10,1,1
+"Stanford,Barbara  M",Production       ,Production Technician I,Kissy Sullivan,Fully Meets,10,12,1,1
+"Stoica, Rick",Production       ,Production Technician I,Kelley Spirea,Fully Meets,5,9,0,0
+"Sullivan, Timothy",Production       ,Production Technician I,Michael Albert,90-day meets,14,14,0,0
+"Sutwell, Barbara",Production       ,Production Technician I,Elijiah Gray,Fully Meets,10,12,2,0
+"Tavares, Desiree  ",Production       ,Production Technician I,Webster Butler,Fully Meets,6,7,2,0
+"Theamstern, Sophia",Production       ,Production Technician I,Amy Dunn,N/A- too early to review,5,9,1,0
+"Tinto, Theresa  ",Production       ,Production Technician I,Ketsia Liebig,90-day meets,8,9,2,1
+"Tippett, Jeanette",Production       ,Production Technician I,Brannon Miller,Fully Meets,4,7,3,0
+"Trang, Mei",Production       ,Production Technician I,David Stanley,N/A- too early to review,15,16,0,0
+"Veera, Abdellah ",Production       ,Production Technician I,Kissy Sullivan,Exceeds,16,15,0,0
+"Volk, Colleen",Production       ,Production Technician I,Kelley Spirea,Exceeds,5,5,1,0
+"Von Massenbach, Anna",Production       ,Production Technician I,Michael Albert,N/A- too early to review,7,9,3,4
+"Wallace, Theresa",Production       ,Production Technician I,Elijiah Gray,Needs Improvement,7,8,4,1
+"Whittier, Scott",Production       ,Production Technician I,Webster Butler,90-day meets,14,13,0,0
+"Wilber, Barry",Production       ,Production Technician I,Amy Dunn,Fully Meets,9,12,1,0
+"Williams, Jacquelyn  ",Production       ,Production Technician I,Ketsia Liebig,Fully Meets,3,5,2,2
+"Ybarra, Catherine ",Production       ,Production Technician I,Brannon Miller,PIP,10,10,0,0
+"Zima, Colleen",Production       ,Production Technician I,David Stanley,Fully Meets,9,10,2,0
+"Akinkuolie, Sarah",Production       ,Production Technician II,Kissy Sullivan,90-day meets,17,17,0,0
+"Beak, Kimberly  ",Production       ,Production Technician II,Kelley Spirea,Exceeds,6,5,2,2
+"Blount, Dianna",Production       ,Production Technician II,Michael Albert,Needs Improvement,6,11,1,1
+"Bondwell, Betsy",Production       ,Production Technician II,Elijiah Gray,90-day meets,15,16,0,1
+"Buccheri, Joseph  ",Production       ,Production Technician II,Webster Butler,Fully Meets,9,10,1,0
+"Burke, Joelle",Production       ,Production Technician II,Amy Dunn,Fully Meets,10,10,1,1
+"Burkett, Benjamin ",Production       ,Production Technician II,Ketsia Liebig,Fully Meets,7,8,0,1
+"Cloninger, Jennifer",Production       ,Production Technician II,Brannon Miller,90-day meets,9,10,1,0
+"Close, Phil",Production       ,Production Technician II,David Stanley,Fully Meets,5,7,3,0
+"Davis, Daniel",Production       ,Production Technician II,Kissy Sullivan,90-day meets,14,15,1,0
+"Demita, Carla",Production       ,Production Technician II,Kelley Spirea,Fully Meets,4,5,3,3
+"Erilus, Angela",Production       ,Production Technician II,Michael Albert,PIP,13,13,1,0
+"Faller, Megan ",Production       ,Production Technician II,Elijiah Gray,Fully Meets,15,18,0,0
+"Fancett, Nicole",Production       ,Production Technician II,Webster Butler,Fully Meets,15,14,0,0
+"Fitzpatrick, Michael  J",Production       ,Production Technician II,Amy Dunn,Fully Meets,14,14,0,0
+"Foreman, Tanya",Production       ,Production Technician II,Ketsia Liebig,Fully Meets,3,1,3,3
+"Gonzalez, Juan",Production       ,Production Technician II,Brannon Miller,PIP,12,10,1,0
+"Good, Susan",Production       ,Production Technician II,David Stanley,Fully Meets,14,15,1,1
+"Gosciminski, Phylicia  ",Production       ,Production Technician II,Kissy Sullivan,Fully Meets,12,12,1,0
+"Hankard, Earnest",Production       ,Production Technician II,Kelley Spirea,Fully Meets,15,16,0,0
+"Hendrickson, Trina",Production       ,Production Technician II,Kelley Spirea,Fully Meets,14,15,0,0
+"Homberger, Adrienne  J",Production       ,Production Technician II,Michael Albert,Fully Meets,5,6,2,1
+"Hunts, Julissa",Production       ,Production Technician II,Elijiah Gray,N/A- too early to review,10,10,2,0
+"Hutter, Rosalie",Production       ,Production Technician II,Webster Butler,N/A- too early to review,11,10,0,0
+"Huynh, Ming",Production       ,Production Technician II,Amy Dunn,Fully Meets,16,17,0,0
+"Jeannite, Tayana",Production       ,Production Technician II,Ketsia Liebig,Exceeds,19,17,0,0
+"Johnston, Yen",Production       ,Production Technician II,Brannon Miller,Exceptional,11,10,0,0
+"Langford, Lindsey",Production       ,Production Technician II,David Stanley,Fully Meets,15,15,1,0
+"Latif, Mohammed",Production       ,Production Technician II,Kissy Sullivan,Fully Meets,15,14,1,0
+"Linden, Mathew",Production       ,Production Technician II,Kelley Spirea,Fully Meets,5,7,2,1
+"Lundy, Susan",Production       ,Production Technician II,Michael Albert,N/A- too early to review,18,16,0,0
+"Lunquist, Lisa",Production       ,Production Technician II,Elijiah Gray,Exceeds,8,8,4,0
+"Manchester, Robyn",Production       ,Production Technician II,Webster Butler,N/A- too early to review,6,5,1,0
+"Mancuso, Karen",Production       ,Production Technician II,Amy Dunn,N/A- too early to review,5,5,1,0
+"McCarthy, Brigit",Production       ,Production Technician II,Ketsia Liebig,N/A- too early to review,4,4,2,2
+"Miller, Ned",Production       ,Production Technician II,Brannon Miller,PIP,15,14,1,0
+"Monkfish, Erasumus  ",Production       ,Production Technician II,David Stanley,Fully Meets,17,18,0,0
+"Monterro, Luisa",Production       ,Production Technician II,Kissy Sullivan,Exceptional,10,12,1,1
+"Moran, Patrick",Production       ,Production Technician II,Kelley Spirea,Fully Meets,10,12,1,0
+"Moumanil, Maliki ",Production       ,Production Technician II,Michael Albert,Fully Meets,10,10,0,1
+"Nowlan, Kristie",Production       ,Production Technician II,Elijiah Gray,Fully Meets,6,7,3,0
+"Oliver, Brooke ",Production       ,Production Technician II,Webster Butler,90-day meets,6,7,4,0
+"Pelletier, Ermine",Production       ,Production Technician II,Amy Dunn,N/A- too early to review,17,18,0,0
+"Peters, Lauren",Production       ,Production Technician II,Ketsia Liebig,Exceeds,9,10,0,0
+"Petingill, Shana  ",Production       ,Production Technician II,Brannon Miller,Fully Meets,4,6,2,1
+"Roberson, May",Production       ,Production Technician II,David Stanley,N/A- too early to review,12,12,0,0
+"Robertson, Peter",Production       ,Production Technician II,Kissy Sullivan,Fully Meets,11,10,0,0
+"Sahoo, Adil",Production       ,Production Technician II,Kelley Spirea,Fully Meets,14,17,0,0
+"Sloan, Constance",Production       ,Production Technician II,Michael Albert,Fully Meets,16,16,0,0
+"Smith, Joe",Production       ,Production Technician II,Elijiah Gray,Exceeds,12,18,0,0
+"Sweetwater, Alex",Production       ,Production Technician II,Michael Albert,Fully Meets,9,10,0,0
+"Tejeda, Lenora ",Production       ,Production Technician II,Elijiah Gray,Fully Meets,12,12,1,0
+"Thibaud, Kenneth",Production       ,Production Technician II,Webster Butler,Fully Meets,12,13,1,0
+"Trzeciak, Cybil",Production       ,Production Technician II,Amy Dunn,Fully Meets,12,14,0,1
+"Walker, Roger",Production       ,Production Technician II,Ketsia Liebig,Fully Meets,18,17,0,0
+"Winthrop, Jordan  ",Production       ,Production Technician II,Brannon Miller,Exceeds,12,11,0,0
+"Wolk, Hang  T",Production       ,Production Technician II,David Stanley,Fully Meets,12,17,0,0
+"Woodson, Jason",Production       ,Production Technician II,Kissy Sullivan,Fully Meets,7,12,1,1
