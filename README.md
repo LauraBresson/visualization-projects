@@ -7,7 +7,4 @@
 
 Source files from the HR Metrics and Analytics courses at the New England College of Business representing a fictitious company called Dental Magic.
 
-Tools used:
-- PowerBI report view
-- PowerBI DAX
-- PowerBI Query editor
+Pages analyze overall organizational metrics, terminations, hiring, diversity and performance, available as .pbix, .phip and .pdf. 
